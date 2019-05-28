@@ -1,0 +1,31 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.heading{
+	margin-top: 2em;
+	margin-bottom: 1.5em;
+}
+.login-form{
+	padding: 20px;
+	box-sizing: border-box;
+	-webkit-box-shadow: 2px 2px 5px 1px #ccc;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+	-moz-box-shadow:    2px 2px 5px 1px #ccc;  /* Firefox 3.5 - 3.6 */
+	box-shadow:         2px 2px 5px 1px #ccc;
+}
+.login-form h1{
+	text-align: center;
+	margin-bottom: 1.5em;
+	color: #3fb331;
+}
+.login-form button{
+	color: #fff;
+}
+.foot{
+	margin-top: 1em;
+
+}
+.foot a{
+	text-decoration: none;
+	color: #3fb331;
+}
